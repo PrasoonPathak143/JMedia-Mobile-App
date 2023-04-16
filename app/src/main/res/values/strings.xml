@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InternshalaProject</string>
+    <string name="star_premier">Star Premier</string>
+    <string name="star_image">Star Image</string>
+    <string name="powered_by_phoenix_labs">Powered by Phoenix Labs</string>
+    <string name="home">Home</string>
+    <string name="action">Action</string>
+    <string name="category">Category</string>
+    <string name="movies_for_kids">Movies for Kids</string>
+    <string name="movies_in_action">Action Movies</string>
+    <string name="watch_next">New Release</string>
+    <string name="tv_shows">TV SHOWS</string>
+    <string name="kids">KIDS</string>
+    <string name="movies">MOVIES</string>
+    <string name="horror">Horror</string>
+    <string name="movie_banner">Movie Banner</string>
+</resources>
